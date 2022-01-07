@@ -11,3 +11,10 @@ rmdir - Removes an empty directory
 clear - Clears the terminal
 cat - List the contents of a file
 nano - Opens a text editor
+
+Commands for Networking
+
+ifconfig -
+ping -
+nmap -
+traceroute-
