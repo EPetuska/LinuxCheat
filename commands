@@ -6,6 +6,8 @@ cd - Change Directory ex: cd
 ls - List Files
 pwd - Print working directory
 touch - Create file
-mkdir - Create a diretory 
+mkdir - Create a diretory
+rmdir - Removes an empty directory
 clear - Clears the terminal
 cat - List the contents of a file
+nano - Opens a text editor
