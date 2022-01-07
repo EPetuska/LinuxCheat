@@ -2,9 +2,10 @@
 
 Commands are running the Linux Terminal
 
-cd - Change Directory
+cd - Change Directory ex: cd 
 ls - List Files
 pwd - Print working directory
 touch - Create file
 mkdir - Create a diretory 
 clear - Clears the terminal
+cat - List the contents of a file
