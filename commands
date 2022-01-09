@@ -14,7 +14,8 @@ nano - Opens a text editor
 
 Commands for Networking
 
-ifconfig -
+ifconfig - Used tp configure or view the configuration of a network interface
+ip - Modern replacement of ifconfig
 netstat -
 nslookup -
 ping -
