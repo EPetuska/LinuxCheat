@@ -17,7 +17,7 @@ Commands for Networking
 ifconfig - Used tp configure or view the configuration of a network interface
 ip - Modern replacement of ifconfig
 netstat - Used to print network conditions, routing table, interface statistics. Used to diagnose network issues
-nslookup -
+nslookup - Used to display DNS records
 ping -
 nmap -
 route -
