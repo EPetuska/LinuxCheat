@@ -20,6 +20,6 @@ netstat - Used to print network conditions, routing table, interface statistics.
 nslookup - Used to display DNS records
 ping - Used to check connectivity between host and server
 nmap - Used for network exploration and security auditing 
-route -
+route - Used to view and manipulate the routing table
 traceroute -
 tracepath -
